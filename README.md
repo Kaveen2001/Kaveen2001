@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KAVEEN SEWHAN</h1>
  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F007%2F559%2F606%2Fsmall%2Fa-children-learning-coding-or-computer-programming-flat-illustration-coding-for-kids-basic-computer-programing-can-be-used-for-web-landing-page-social-media-promotion-etc-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fcoder&tbnid=r7q9GThSm9WwJM&vet=12ahUKEwiw4Lz0zIz9AhUPwjgGHYWzD6sQMygKegUIARCFAg..i&docid=LWoliDXIvwKDKM&w=267&h=200&q=coding%20students%20vecter&ved=2ahUKEwiw4Lz0zIz9AhUPwjgGHYWzD6sQMygKegUIARCFAg" alt="arduino" width="40" height="40"/>
-<h3 align="center">A passionate Frontend & Backend developer from Sri Lanka.</h3>
+<h3 align="center">A passionate Fullstack Developer from Sri Lanka.</h3>
 
 - 🔭 I’m currently nworking on **IJSE-Insitute Of Software Engineering**
 
